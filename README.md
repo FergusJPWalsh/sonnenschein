@@ -9,7 +9,8 @@ A repository for a digitisation effort of _Ora Maritima_ (1902) and _Pro Patria_
 
 ## Progress
 * OCR: done
-* Editing and correction: in progress
+* Automatic spellchecking: done
+* Manual spellchecking and correction: in progress
 
 ## Licence
 
