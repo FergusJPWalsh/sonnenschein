@@ -5,7 +5,6 @@ import pytesseract
 import cv2
 import numpy as np
 import re
-import os, glob
 
 def normalise_latin(string):
     """Normalise Latin language character set."""
