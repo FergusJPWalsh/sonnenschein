@@ -10,9 +10,11 @@ A repository for a digitisation effort of _Ora Maritima_ (1902) and _Pro Patria_
 ## Progress
 * OCR: done
 * Automatic spellchecking: done
-* Manual spellchecking and correction: in progress
-* _Pro Patria_: 75% done
-* _Ora Maritima_ 0% done
+* Manual spellchecking and correction: done
+* Add macrons: to do
+* Create HTML file: to do
+* Tokenise and lemmatise text: to do
+* Create vocabulary aids: to do
 
 ## Licence
 
