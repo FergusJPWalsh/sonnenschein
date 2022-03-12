@@ -64,15 +64,18 @@ for WORK in WORK_LIST:
                             print("""    <div class="preamble">""", file=g)
                     else:
                         if chapter == "SB":
-                            print(f"""    <div class="subscription">{parts[1]}""", file=g)
+                            print(f"""    <div class="subscription">""", file=g)
                         elif chapter == "EP":
                             print("""    <div class="epilogue">""", file=g)
-                        else:
-                            print("""    <div class="chapter">""", file=g)
-                            print(f"""      <h3 class="chapter_ref">{parts[1]}</h3>""", file=g)
+                        # else:
+                            # print("""    <div class="chapter">""", file=g)
+                            # print(f"""      <h3 class="chapter_ref">{parts[1]}</h3>""", file=g)
                     prev_chapter = chapter
                 if chapter == "0" and verse == "0":
                     print(f"""    <h1 class="section_title">{parts[1]}</h1>""", file=g)    
+                elif chapter != "0" and verse == "0":
+                    print("""    <div class="chapter">""", file=g)
+                    print(f"""      <h3 class="chapter_ref">{parts[1]}</h3>""", file=g)
                 else:
                     if chapter == "EP" and verse == "0":
                         print(f"""<h3 class="epilogue_title">{parts[1]}</h3>""", file=g)
