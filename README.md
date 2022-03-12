@@ -13,8 +13,9 @@ Read online [here](https://fergusjpwalsh.github.io/sonnenschein/).
 * OCR: done
 * Automatic spellchecking: done
 * Manual spellchecking and correction: done
-* Add macrons: to do
-* Create HTML file: to do
+* Add macrons: in progress
+* Create HTML file: in progress
+* Add pictures from print books to HTML files: to do
 * Tokenise and lemmatise text: to do
 * Create vocabulary aids: to do
 
