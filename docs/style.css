@@ -82,3 +82,9 @@ li {
   vertical-align: baseline;
   top: -0.5em;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
