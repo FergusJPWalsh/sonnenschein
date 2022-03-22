@@ -1,6 +1,6 @@
 # Digital texts of the Latin textbooks _Ora Maritima_ and _Pro Patria_ by E. Sonnenschein (1851-1929)
 
-A repository for a digitisation effort of _Ora Maritima_ (1902) and _Pro Patria_ (1907)
+A repository for a digitisation effort of _Ora Maritima_ (1902) and _Pro Patria_ (1903)
 
 Read online [here](https://fergusjpwalsh.github.io/sonnenschein/).
 
