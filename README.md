@@ -2,7 +2,7 @@
 
 A repository for a digitisation effort of _Ora Maritima_ (1902) and _Pro Patria_ (1903).
 
-Read online [here](https://fergusjpwalsh.github.io/sonnenschein/).
+**Read online [here](https://fergusjpwalsh.github.io/sonnenschein/)**
 
 ## Index
 * ```orig```: contains original scans from Internet Archive and OCR transcriptions
